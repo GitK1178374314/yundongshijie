@@ -2,7 +2,8 @@
 
 ## ⬇️ 立即下载
 > 🚀 **最新版：美信乐跑（创作者版） v0.4.0**
-[📥 点击下载 美信乐跑(更新版) v0.4.0 ](https://github.com/user-attachments/files/33426321/_v0.4.0_.zip)
+
+**[📥 点击下载 美信乐跑(更新版) v0.4.0 ](https://github.com/user-attachments/files/33426321/_v0.4.0_.zip)**
 
 **[👉 点击下载 美信乐跑（创作者版） v0.3.0（5MB）](https://github.com/user-attachments/files/33045580/default.zip)**
 
