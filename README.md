@@ -117,7 +117,7 @@
 
 - 原作者：[YanamiNeko](https://github.com/YanamiNeko) · [NekoSportsWorldTool](https://github.com/YanamiNeko/NekoSportsWorldTool)
 - v0.3 改版：[GitK1178374314](https://github.com/GitK1178374314)（QQ 1178374314）
-- v0.4 改版 / 当前作者：[@你的GitHub用户名]
+- v0.4 改版 / 当前作者：[@xxxx773](https://github.com/xxxx773)
 - 许可：[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) —— 允许修改与再分发，**必须保留上游全部署名**，**禁止商业用途**
 
 如果这个项目对你有帮助，欢迎 Star；有 Bug 或建议请提 Issue。
