@@ -135,7 +135,7 @@ cargo test --lib                             # 离线测试（不联网）
 ## 致谢与许可
 
 - 原作者：[YanamiNeko](https://github.com/YanamiNeko) · 原项目：[NekoSportsWorldTool](https://github.com/YanamiNeko/NekoSportsWorldTool)
-- 本改版维护：[@你的GitHub用户名]
+- 本改版维护：[xxxx773]
 - 许可：[CC BY-NC 4.0](LICENSE) —— 允许修改与再分发，**必须保留原作者署名**，**禁止商业用途**
 
 如果这个项目对你有帮助，欢迎 Star；有 Bug 或建议请提 Issue。
