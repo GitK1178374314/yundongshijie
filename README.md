@@ -15,7 +15,7 @@
 
 ## 关于本项目（请先读这段）
 
-> **本项目由 [@xxxx773][@GitK117837314] 二次开发与维护。**
+> **本项目由 [@xxxx773](https://github.com/xxxx773)[@GitK117837314](https://github.com/GitK117837314) 二次开发与维护。**
 > 界面重构、定时任务面板、排程逻辑与若干缺陷修复均出自本人的改版工作。
 > 原作者：**YanamiNeko**（原项目 [NekoSportsWorldTool](https://github.com/YanamiNeko/NekoSportsWorldTool)），
 > 原项目采用 **CC BY-NC 4.0（署名 · 非商业性使用）**，本改版沿用同一许可并保留原作者署名。
@@ -135,7 +135,7 @@ cargo test --lib                             # 离线测试（不联网）
 ## 致谢与许可
 
 - 原作者：[YanamiNeko](https://github.com/YanamiNeko) · 原项目：[NekoSportsWorldTool](https://github.com/YanamiNeko/NekoSportsWorldTool)
-- 本改版维护：[xxxx773]
+- 本改版维护：[xxxx773](https://github.com/xxxx773)
 - 许可：[CC BY-NC 4.0](LICENSE) —— 允许修改与再分发，**必须保留原作者署名**，**禁止商业用途**
 
 如果这个项目对你有帮助，欢迎 Star；有 Bug 或建议请提 Issue。
